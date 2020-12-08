@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="https://alykkid.oss-cn-shenzhen.aliyuncs.com/md/img/BohongChen.jpg">
 
-I am currently a fourth-year undergraduate student in the [MAC Lab](http://mac.xmu.edu.cn/), School of Informatics, Xiamen University, China.
+I am currently currently persuring master degree in [MAC Lab](http://mac.xmu.edu.cn/), School of Informatics, Xiamen University, China.
 
 Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [Associate Prof. Liujuan Cao](https://information.xmu.edu.cn/info/1019/3182.htm)
 
