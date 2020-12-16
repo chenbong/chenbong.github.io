@@ -28,7 +28,7 @@ Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [
 
 - **Institution**: School of Information, Xiamen University, China
 
-- **E-mail**:  bhchen [at] stu.xmu.edu.cn or chenbohongcs [at] 163.com 
+- **E-mail**:  bhchen [at] stu.xmu.edu.cn or bhchencs [at] 163.com 
 
 ---
 <a href="https://info.flagcounter.com/ioa7"><img src="https://s05.flagcounter.com/count/ioa7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" img class="profile-picture"></a>
