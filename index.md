@@ -10,7 +10,7 @@ layout: default
 
 I am currently persuring master degree in [MAC Lab](http://mac.xmu.edu.cn/), School of Informatics, Xiamen University, China.
 
-Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [Associate Prof. Liujuan Cao](https://information.xmu.edu.cn/info/1019/3182.htm)
+Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [Associate Prof. Liujuan Cao](https://informatics.xmu.edu.cn/info/1019/3182.htm)
 
 ## Research Interests 
 
@@ -26,7 +26,7 @@ Under the supervision of [Prof. Rongrong Ji](https://mac.xmu.edu.cn/rrji/) and [
 
 ## Contact
 
-- **Institution**: School of Information, Xiamen University, China
+- **Institution**: School of Informatics, Xiamen University, China
 
 - **E-mail**:  bhchen [at] stu.xmu.edu.cn or bhchencs [at] 163.com 
 
